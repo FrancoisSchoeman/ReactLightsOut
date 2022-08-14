@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.cf1223a8.chunk.css",
-  "main.js": "/static/js/main.0d648ec1.chunk.js",
-  "main.js.map": "/static/js/main.0d648ec1.chunk.js.map",
-  "static/js/1.6657e2f4.chunk.js": "/static/js/1.6657e2f4.chunk.js",
-  "static/js/1.6657e2f4.chunk.js.map": "/static/js/1.6657e2f4.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.cf1223a8.chunk.css.map": "/static/css/main.cf1223a8.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.fd2d4b3ab9b9c6b574dc27ff3afbceda.js": "/precache-manifest.fd2d4b3ab9b9c6b574dc27ff3afbceda.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/ReactLightsOut/static/css/main.cf1223a8.chunk.css",
+  "main.js": "/ReactLightsOut/static/js/main.cd7d72d4.chunk.js",
+  "main.js.map": "/ReactLightsOut/static/js/main.cd7d72d4.chunk.js.map",
+  "static/js/1.6657e2f4.chunk.js": "/ReactLightsOut/static/js/1.6657e2f4.chunk.js",
+  "static/js/1.6657e2f4.chunk.js.map": "/ReactLightsOut/static/js/1.6657e2f4.chunk.js.map",
+  "runtime~main.js": "/ReactLightsOut/static/js/runtime~main.cad1edab.js",
+  "runtime~main.js.map": "/ReactLightsOut/static/js/runtime~main.cad1edab.js.map",
+  "static/css/main.cf1223a8.chunk.css.map": "/ReactLightsOut/static/css/main.cf1223a8.chunk.css.map",
+  "index.html": "/ReactLightsOut/index.html",
+  "precache-manifest.4ce9e131a9c264125f69f2c66d619492.js": "/ReactLightsOut/precache-manifest.4ce9e131a9c264125f69f2c66d619492.js",
+  "service-worker.js": "/ReactLightsOut/service-worker.js"
 }
